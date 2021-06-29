@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, World! :alien: :v:
 
 <!--
 **MaChimal/MaChimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align='left' src='https://media4.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.webp?cid=ecf05e474deqi0tzj8r229ll818qxs87fiy7vjduyx75bewc&rid=200w.webp&ct=g' width='170px'>  
+
+My name is ***Mario Chimal***.  
+
+<br>
+
+I am a physics student who loves to program. :octocat: 
+
+<br>
+
+[<img align="left" alt="spotify" src="https://image.flaticon.com/icons/png/512/174/174872.png" width='20px' />](https://open.spotify.com/user/marioochimal?si=11d255e39521479d)
+[<img align="left" alt="instagram" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" width='20px' />](https://www.instagram.com/soymariochimal/)
+[<img align="left" alt="twitter" src="https://image.flaticon.com/icons/png/512/733/733579.png" width='20px' />](https://twitter.com/SoyMarioChimal)
