@@ -26,5 +26,4 @@ I am a physics student who loves to program. :octocat:
 <br>
 
 [<img align="left" alt="spotify" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width='20px' />](https://open.spotify.com/user/marioochimal?si=11d255e39521479d)
-[<img align="left" alt="instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width='20px' />](https://www.instagram.com/soymariochimal/)
 [<img align="left" alt="twitter" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width='20px' />](https://twitter.com/SoyMarioChimal)
